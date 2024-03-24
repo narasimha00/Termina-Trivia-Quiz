@@ -1,0 +1,44 @@
+{
+    "questions":[
+        {
+            "qstring": "What does HTML stand for?",
+            "options": [
+                "Hyper Text Markup Language",
+                "High Tech Markup Language",
+                "Hyperlinks and Text Markup Language",
+                "Home Tool Markup Language"
+            ],
+            "correct_choice":1
+        },
+        {
+            "qstring": "Which of the following is a statically typed programming language?",
+            "options": [
+                "Python",
+                "JavaScript",
+                "C++",
+                "Ruby"
+            ],
+            "correct_choice":3
+        },
+        {
+            "qstring": "Which of the following data structures uses Last-In-First-Out (LIFO) order?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Array",
+                "LinkedList"
+            ],
+            "correct_choice":2
+        },
+        {
+            "qstring": "In C++, what is the operator used for dereferencing a pointer?",
+            "options": [
+                "&",
+                "*",
+                ",",
+                "%"
+            ],
+            "correct_choice":2
+        }
+    ]
+}
